@@ -110,7 +110,9 @@ def predict_future(model, current_value):
 def weather_view():
     '''Fetch current weather data for a specific city, train models on historical data,
     and predict future temperature and humidity.'''
-    city = 'latur'
+
+    city = 'mumbai'
+    
     current_weather = get_current_weather(city)
 
     # historical_data = read_historical_data('weather forcasting\\data\\weather.csv')

@@ -1,8 +1,8 @@
 date_time,actual_temperature,predicted_temperature,actual_humidity,predicted_humidity,actual_wind_speed,predicted_wind_speed,actual_wind_direction,cloud_coverage,precipitation (mm),predicted_precipitation,rain_prediction,weather_prediction
-2025-04-13 16:00,37,33.1,10,44.8,4.91,28.3,319,64,0.0,23.8,No,broken clouds
-2025-04-14 16:00,37,25.1,10,46.2,4.91,35.4,319,64,0.0,7.3,No,broken clouds
-2025-04-15 16:00,37,20.1,10,48.2,4.91,36.1,319,64,0.0,25.4,No,broken clouds
-2025-04-16 16:00,37,16.6,10,53.7,4.91,36.1,319,64,0.0,38.7,No,broken clouds
-2025-04-17 16:00,37,14.4,10,58.1,4.91,36.1,319,64,0.0,11.3,No,broken clouds
-2025-04-18 16:00,37,13.4,10,54.2,4.91,36.1,319,64,0.0,30.4,No,broken clouds
-2025-04-19 16:00,37,13.6,10,58.1,4.91,36.1,319,64,0.0,11.7,No,broken clouds
+2025-04-13 17:00,29,22.1,69,61.3,4.89,28.3,284,5,0.0,23.8,Yes,clear sky
+2025-04-14 17:00,29,23.3,69,58.5,4.89,35.4,284,5,0.0,7.3,Yes,clear sky
+2025-04-15 17:00,29,19.0,69,54.2,4.89,36.1,284,5,0.0,25.4,Yes,clear sky
+2025-04-16 17:00,29,24.5,69,58.1,4.89,36.1,284,5,0.0,38.7,Yes,clear sky
+2025-04-17 17:00,29,24.5,69,54.2,4.89,36.1,284,5,0.0,11.3,Yes,clear sky
+2025-04-18 17:00,29,24.5,69,58.1,4.89,36.1,284,5,0.0,30.4,Yes,clear sky
+2025-04-19 17:00,29,24.5,69,54.2,4.89,36.1,284,5,0.0,11.7,Yes,clear sky
