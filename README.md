@@ -145,6 +145,7 @@ Supaboard provides a clean, interactive UI to monitor and analyze weather trends
 ## Drive Link :- 
 https://drive.google.com/drive/folders/1MAeiqxCZWImd24Zccbw65tDF1t0RXQrW?usp=sharing
 Dashboard : https://app.supaboard.ai/dashboard/weather-data
+WebApp : https://weather-ap.streamlit.app/
 
 ## Contribution :-
 
